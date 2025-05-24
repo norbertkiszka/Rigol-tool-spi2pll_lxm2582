@@ -29,3 +29,6 @@ Example with 1250 MHz output:
 php lxm2582_generate_header_and_compile.php TICSPro_registers/DHO800_DHO900_original_registers_1250_MHz.txt
 adb push compiled/spi2pll_lxm2582_DHO800_DHO900_original_registers_1250_MHz /rigol/tools/spi2pll_lxm2582
 ```
+# Screenshot
+
+![Screenshot from the terminal with adb](https://raw.githubusercontent.com/norbertkiszka/Rigol-tool-spi2pll_lxm2582/master/Screenshot_1250_MHz.png)
